@@ -1,0 +1,65 @@
+=== 纯风险overlay(无战术信号) 前沿扫描 ===
+{"tv": 0.03, "DC": false, "cap": 1.0, "ann": 5.28, "vol": 3.53, "mdd": -4.45, "sharpe": 1.5, "calmar": 1.19, "turn": 0.28}
+{"tv": 0.035, "DC": false, "cap": 1.0, "ann": 5.64, "vol": 3.99, "mdd": -5.27, "sharpe": 1.41, "calmar": 1.07, "turn": 0.32}
+{"tv": 0.04, "DC": false, "cap": 1.0, "ann": 6.0, "vol": 4.48, "mdd": -6.1, "sharpe": 1.34, "calmar": 0.98, "turn": 0.37}
+{"tv": 0.045, "DC": false, "cap": 1.0, "ann": 6.36, "vol": 4.99, "mdd": -7.1, "sharpe": 1.28, "calmar": 0.9, "turn": 0.41}
+{"tv": 0.05, "DC": false, "cap": 1.0, "ann": 6.72, "vol": 5.51, "mdd": -8.25, "sharpe": 1.22, "calmar": 0.81, "turn": 0.46}
+{"tv": 0.055, "DC": false, "cap": 1.0, "ann": 7.07, "vol": 6.03, "mdd": -9.38, "sharpe": 1.17, "calmar": 0.75, "turn": 0.51}
+{"tv": 0.06, "DC": false, "cap": 1.0, "ann": 7.42, "vol": 6.57, "mdd": -10.5, "sharpe": 1.13, "calmar": 0.71, "turn": 0.55}
+{"tv": 0.065, "DC": false, "cap": 1.0, "ann": 7.76, "vol": 7.1, "mdd": -11.41, "sharpe": 1.09, "calmar": 0.68, "turn": 0.59}
+{"tv": 0.07, "DC": false, "cap": 1.0, "ann": 8.11, "vol": 7.62, "mdd": -12.08, "sharpe": 1.07, "calmar": 0.67, "turn": 0.62}
+{"tv": 0.08, "DC": false, "cap": 1.0, "ann": 8.79, "vol": 8.64, "mdd": -13.22, "sharpe": 1.02, "calmar": 0.66, "turn": 0.69}
+{"tv": 0.09, "DC": false, "cap": 1.0, "ann": 9.4, "vol": 9.6, "mdd": -14.49, "sharpe": 0.98, "calmar": 0.65, "turn": 0.75}
+{"tv": 0.1, "DC": false, "cap": 1.0, "ann": 10.03, "vol": 10.49, "mdd": -16.03, "sharpe": 0.96, "calmar": 0.63, "turn": 0.78}
+{"tv": 0.12, "DC": false, "cap": 1.0, "ann": 10.95, "vol": 11.64, "mdd": -17.67, "sharpe": 0.94, "calmar": 0.62, "turn": 0.8}
+{"tv": 0.15, "DC": false, "cap": 1.0, "ann": 11.96, "vol": 12.41, "mdd": -18.12, "sharpe": 0.96, "calmar": 0.66, "turn": 0.73}
+{"tv": 0.03, "DC": true, "cap": 1.0, "ann": 4.89, "vol": 3.08, "mdd": -4.18, "sharpe": 1.59, "calmar": 1.17, "turn": 0.28}
+{"tv": 0.035, "DC": true, "cap": 1.0, "ann": 5.21, "vol": 3.37, "mdd": -4.1, "sharpe": 1.55, "calmar": 1.27, "turn": 0.32}
+{"tv": 0.04, "DC": true, "cap": 1.0, "ann": 5.65, "vol": 3.63, "mdd": -4.04, "sharpe": 1.56, "calmar": 1.4, "turn": 0.37}
+{"tv": 0.045, "DC": true, "cap": 1.0, "ann": 6.1, "vol": 3.91, "mdd": -3.92, "sharpe": 1.56, "calmar": 1.56, "turn": 0.41}
+{"tv": 0.05, "DC": true, "cap": 1.0, "ann": 6.32, "vol": 4.18, "mdd": -3.94, "sharpe": 1.51, "calmar": 1.6, "turn": 0.46}
+{"tv": 0.055, "DC": true, "cap": 1.0, "ann": 6.32, "vol": 4.43, "mdd": -4.27, "sharpe": 1.43, "calmar": 1.48, "turn": 0.51}
+{"tv": 0.06, "DC": true, "cap": 1.0, "ann": 6.49, "vol": 4.64, "mdd": -4.55, "sharpe": 1.4, "calmar": 1.43, "turn": 0.55}
+{"tv": 0.065, "DC": true, "cap": 1.0, "ann": 6.49, "vol": 4.83, "mdd": -4.6, "sharpe": 1.34, "calmar": 1.41, "turn": 0.59}
+{"tv": 0.07, "DC": true, "cap": 1.0, "ann": 6.03, "vol": 4.93, "mdd": -4.85, "sharpe": 1.22, "calmar": 1.24, "turn": 0.62}
+{"tv": 0.08, "DC": true, "cap": 1.0, "ann": 6.87, "vol": 5.22, "mdd": -5.71, "sharpe": 1.32, "calmar": 1.2, "turn": 0.69}
+{"tv": 0.09, "DC": true, "cap": 1.0, "ann": 5.89, "vol": 5.22, "mdd": -6.58, "sharpe": 1.13, "calmar": 0.9, "turn": 0.75}
+{"tv": 0.1, "DC": true, "cap": 1.0, "ann": 6.13, "vol": 5.66, "mdd": -5.93, "sharpe": 1.08, "calmar": 1.04, "turn": 0.78}
+{"tv": 0.12, "DC": true, "cap": 1.0, "ann": 5.92, "vol": 5.54, "mdd": -6.92, "sharpe": 1.07, "calmar": 0.86, "turn": 0.8}
+{"tv": 0.15, "DC": true, "cap": 1.0, "ann": 5.75, "vol": 5.71, "mdd": -6.92, "sharpe": 1.01, "calmar": 0.83, "turn": 0.73}
+{"tv": 0.03, "DC": false, "cap": 2.0, "ann": 5.28, "vol": 3.53, "mdd": -4.45, "sharpe": 1.5, "calmar": 1.19, "turn": 0.28}
+{"tv": 0.035, "DC": false, "cap": 2.0, "ann": 5.64, "vol": 3.99, "mdd": -5.27, "sharpe": 1.41, "calmar": 1.07, "turn": 0.32}
+{"tv": 0.04, "DC": false, "cap": 2.0, "ann": 6.0, "vol": 4.48, "mdd": -6.1, "sharpe": 1.34, "calmar": 0.98, "turn": 0.37}
+{"tv": 0.045, "DC": false, "cap": 2.0, "ann": 6.36, "vol": 4.99, "mdd": -7.1, "sharpe": 1.28, "calmar": 0.9, "turn": 0.41}
+{"tv": 0.05, "DC": false, "cap": 2.0, "ann": 6.72, "vol": 5.51, "mdd": -8.25, "sharpe": 1.22, "calmar": 0.81, "turn": 0.46}
+{"tv": 0.055, "DC": false, "cap": 2.0, "ann": 7.07, "vol": 6.03, "mdd": -9.38, "sharpe": 1.17, "calmar": 0.75, "turn": 0.51}
+{"tv": 0.06, "DC": false, "cap": 2.0, "ann": 7.42, "vol": 6.57, "mdd": -10.5, "sharpe": 1.13, "calmar": 0.71, "turn": 0.55}
+{"tv": 0.065, "DC": false, "cap": 2.0, "ann": 7.77, "vol": 7.11, "mdd": -11.59, "sharpe": 1.09, "calmar": 0.67, "turn": 0.59}
+{"tv": 0.07, "DC": false, "cap": 2.0, "ann": 8.12, "vol": 7.65, "mdd": -12.65, "sharpe": 1.06, "calmar": 0.64, "turn": 0.63}
+{"tv": 0.08, "DC": false, "cap": 2.0, "ann": 8.81, "vol": 8.75, "mdd": -14.71, "sharpe": 1.01, "calmar": 0.6, "turn": 0.7}
+{"tv": 0.09, "DC": false, "cap": 2.0, "ann": 9.49, "vol": 9.85, "mdd": -16.67, "sharpe": 0.96, "calmar": 0.57, "turn": 0.77}
+{"tv": 0.1, "DC": false, "cap": 2.0, "ann": 10.2, "vol": 10.96, "mdd": -18.59, "sharpe": 0.93, "calmar": 0.55, "turn": 0.82}
+{"tv": 0.12, "DC": false, "cap": 2.0, "ann": 11.65, "vol": 13.17, "mdd": -22.37, "sharpe": 0.89, "calmar": 0.52, "turn": 0.9}
+{"tv": 0.15, "DC": false, "cap": 2.0, "ann": 13.77, "vol": 16.32, "mdd": -26.24, "sharpe": 0.84, "calmar": 0.52, "turn": 0.99}
+{"tv": 0.03, "DC": true, "cap": 2.0, "ann": 4.89, "vol": 3.08, "mdd": -4.18, "sharpe": 1.59, "calmar": 1.17, "turn": 0.28}
+{"tv": 0.035, "DC": true, "cap": 2.0, "ann": 5.21, "vol": 3.37, "mdd": -4.1, "sharpe": 1.55, "calmar": 1.27, "turn": 0.32}
+{"tv": 0.04, "DC": true, "cap": 2.0, "ann": 5.65, "vol": 3.63, "mdd": -4.04, "sharpe": 1.56, "calmar": 1.4, "turn": 0.37}
+{"tv": 0.045, "DC": true, "cap": 2.0, "ann": 6.1, "vol": 3.91, "mdd": -3.92, "sharpe": 1.56, "calmar": 1.56, "turn": 0.41}
+{"tv": 0.05, "DC": true, "cap": 2.0, "ann": 6.32, "vol": 4.18, "mdd": -3.94, "sharpe": 1.51, "calmar": 1.6, "turn": 0.46}
+{"tv": 0.055, "DC": true, "cap": 2.0, "ann": 6.32, "vol": 4.43, "mdd": -4.27, "sharpe": 1.43, "calmar": 1.48, "turn": 0.51}
+{"tv": 0.06, "DC": true, "cap": 2.0, "ann": 6.49, "vol": 4.64, "mdd": -4.55, "sharpe": 1.4, "calmar": 1.43, "turn": 0.55}
+{"tv": 0.065, "DC": true, "cap": 2.0, "ann": 6.53, "vol": 4.83, "mdd": -4.6, "sharpe": 1.35, "calmar": 1.42, "turn": 0.59}
+{"tv": 0.07, "DC": true, "cap": 2.0, "ann": 6.06, "vol": 4.92, "mdd": -4.85, "sharpe": 1.23, "calmar": 1.25, "turn": 0.63}
+{"tv": 0.08, "DC": true, "cap": 2.0, "ann": 7.05, "vol": 5.25, "mdd": -5.71, "sharpe": 1.34, "calmar": 1.23, "turn": 0.7}
+{"tv": 0.09, "DC": true, "cap": 2.0, "ann": 5.85, "vol": 5.24, "mdd": -6.58, "sharpe": 1.12, "calmar": 0.89, "turn": 0.77}
+{"tv": 0.1, "DC": true, "cap": 2.0, "ann": 5.69, "vol": 5.67, "mdd": -5.72, "sharpe": 1.0, "calmar": 1.0, "turn": 0.82}
+{"tv": 0.12, "DC": true, "cap": 2.0, "ann": 6.55, "vol": 5.97, "mdd": -7.03, "sharpe": 1.1, "calmar": 0.93, "turn": 0.9}
+{"tv": 0.15, "DC": true, "cap": 2.0, "ann": 7.76, "vol": 7.15, "mdd": -6.3, "sharpe": 1.09, "calmar": 1.23, "turn": 0.99}
+
+=== 内点最优与末端衰减(无信号) ===
+{"cap": 1.0, "DC": false, "峰值σ*": 0.15, "峰值年化%": 11.96, "末端年化%": 11.96, "末端衰减pp": 0.0, "高tv区均值%": 10.98}
+{"cap": 1.0, "DC": true, "峰值σ*": 0.08, "峰值年化%": 6.87, "末端年化%": 5.75, "末端衰减pp": 1.12, "高tv区均值%": 5.933}
+{"cap": 2.0, "DC": false, "峰值σ*": 0.15, "峰值年化%": 13.77, "末端年化%": 13.77, "末端衰减pp": 0.0, "高tv区均值%": 11.873}
+{"cap": 2.0, "DC": true, "峰值σ*": 0.15, "峰值年化%": 7.76, "末端年化%": 7.76, "末端衰减pp": 0.0, "高tv区均值%": 6.667}
+
+完成 -> E:\金融\阿朱说量化研究\paper_data

@@ -1,0 +1,5 @@
+﻿参数组,DC开_峰值σ*,DC开_峰值年化%,DC开_末端年化%,DC开_末端衰减pp,DC开_内点最优,DC关_内点最优,DC开序列
+基准(-1.5/-2.5/-3.5; .70/.40/.15),0.055,6.47,5.37,1.1,True,False,"[np.float64(5.09), np.float64(5.62), np.float64(6.47), np.float64(6.45), np.float64(6.23), np.float64(5.37)]"
+宽松(-2/-4/-6; .80/.50/.25),0.12,7.86,7.86,0.0,False,False,"[np.float64(5.3), np.float64(6.22), np.float64(6.74), np.float64(7.14), np.float64(7.72), np.float64(7.86)]"
+严格(-1/-2/-3; .60/.30/.10),0.09,6.37,6.04,0.33,True,False,"[np.float64(4.78), np.float64(5.0), np.float64(4.88), np.float64(5.17), np.float64(6.37), np.float64(6.04)]"
+极宽(-3/-5/-8; .85/.60/.35),0.12,9.13,9.13,0.0,False,False,"[np.float64(5.39), np.float64(6.43), np.float64(7.01), np.float64(7.95), np.float64(8.66), np.float64(9.13)]"

@@ -1,0 +1,13 @@
+﻿变体,回撤控制,峰值σ,峰值年化,末端年化,末端衰减pp,内点最优,序列
+基准（月度 / 60日 / 250日 / 三档滞回）,关,12.0%,11.28,11.28,0.0,False,"[np.float64(5.48), np.float64(6.66), np.float64(7.44), np.float64(8.61), np.float64(9.8), np.float64(11.28)]"
+基准（月度 / 60日 / 250日 / 三档滞回）,开,5.5%,6.47,5.37,1.103,True,"[np.float64(5.09), np.float64(5.62), np.float64(6.47), np.float64(6.45), np.float64(6.23), np.float64(5.37)]"
+M2 资产波动窗120日,关,12.0%,10.9,10.9,0.0,False,"[np.float64(5.38), np.float64(6.51), np.float64(7.26), np.float64(8.38), np.float64(9.52), np.float64(10.9)]"
+M2 资产波动窗120日,开,5.5%,6.52,4.84,1.681,True,"[np.float64(4.98), np.float64(5.92), np.float64(6.52), np.float64(5.85), np.float64(6.23), np.float64(4.84)]"
+M2 组合协方差窗125日,关,12.0%,11.2,11.2,0.0,False,"[np.float64(5.62), np.float64(6.88), np.float64(7.71), np.float64(8.92), np.float64(10.08), np.float64(11.2)]"
+M2 组合协方差窗125日,开,7.0%,6.82,3.8,3.021,True,"[np.float64(5.12), np.float64(5.99), np.float64(6.5), np.float64(6.82), np.float64(6.31), np.float64(3.8)]"
+M3 双周调仓,关,12.0%,11.86,11.86,0.0,False,"[np.float64(5.59), np.float64(6.84), np.float64(7.66), np.float64(8.9), np.float64(10.22), np.float64(11.86)]"
+M3 双周调仓,开,9.0%,7.2,5.94,1.266,True,"[np.float64(5.2), np.float64(6.03), np.float64(6.96), np.float64(6.96), np.float64(7.2), np.float64(5.94)]"
+M3 季度调仓,关,12.0%,10.4,10.4,0.0,False,"[np.float64(5.22), np.float64(6.27), np.float64(6.95), np.float64(7.97), np.float64(9.22), np.float64(10.4)]"
+M3 季度调仓,开,5.5%,6.37,6.3,0.068,True,"[np.float64(4.91), np.float64(5.58), np.float64(6.37), np.float64(6.26), np.float64(5.94), np.float64(6.3)]"
+M4 连续线性 ramp,关,12.0%,11.28,11.28,0.0,False,"[np.float64(5.48), np.float64(6.66), np.float64(7.44), np.float64(8.61), np.float64(9.8), np.float64(11.28)]"
+M4 连续线性 ramp,开,12.0%,7.03,7.03,0.0,False,"[np.float64(4.95), np.float64(5.76), np.float64(6.2), np.float64(6.65), np.float64(6.77), np.float64(7.03)]"

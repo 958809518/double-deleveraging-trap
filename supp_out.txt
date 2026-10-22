@@ -1,0 +1,123 @@
+=== A. 有杠杆对照组 (eq_cap=2.0, 融资利率3%) ===
+{"name": "cap2|DC=False|tv=3.0%", "年化%": 5.48, "波动%": 3.55, "最大回撤%": -4.14, "夏普": 1.54, "卡玛": 1.32, "年胜率%": 85.7, "tv": 0.03, "DC": false, "cap": 2.0, "换手/年": 0.9}
+{"name": "cap2|DC=False|tv=4.0%", "年化%": 6.27, "波动%": 4.48, "最大回撤%": -5.35, "夏普": 1.4, "卡玛": 1.17, "年胜率%": 85.7, "tv": 0.04, "DC": false, "cap": 2.0, "换手/年": 1.2}
+{"name": "cap2|DC=False|tv=5.0%", "年化%": 7.05, "波动%": 5.47, "最大回撤%": -6.8, "夏普": 1.29, "卡玛": 1.04, "年胜率%": 85.7, "tv": 0.05, "DC": false, "cap": 2.0, "换手/年": 1.49}
+{"name": "cap2|DC=False|tv=5.5%", "年化%": 7.44, "波动%": 5.99, "最大回撤%": -7.52, "夏普": 1.24, "卡玛": 0.99, "年胜率%": 85.7, "tv": 0.055, "DC": false, "cap": 2.0, "换手/年": 1.64}
+{"name": "cap2|DC=False|tv=6.0%", "年化%": 7.83, "波动%": 6.51, "最大回撤%": -8.27, "夏普": 1.2, "卡玛": 0.95, "年胜率%": 85.7, "tv": 0.06, "DC": false, "cap": 2.0, "换手/年": 1.79}
+{"name": "cap2|DC=False|tv=7.0%", "年化%": 8.61, "波动%": 7.56, "最大回撤%": -9.76, "夏普": 1.14, "卡玛": 0.88, "年胜率%": 85.7, "tv": 0.07, "DC": false, "cap": 2.0, "换手/年": 2.07}
+{"name": "cap2|DC=False|tv=9.0%", "年化%": 10.14, "波动%": 9.71, "最大回撤%": -12.72, "夏普": 1.04, "卡玛": 0.8, "年胜率%": 85.7, "tv": 0.09, "DC": false, "cap": 2.0, "换手/年": 2.56}
+{"name": "cap2|DC=False|tv=12.0%", "年化%": 12.46, "波动%": 12.96, "最大回撤%": -17.96, "夏普": 0.96, "卡玛": 0.69, "年胜率%": 85.7, "tv": 0.12, "DC": false, "cap": 2.0, "换手/年": 3.18}
+{"name": "cap2|DC=True|tv=3.0%", "年化%": 5.09, "波动%": 3.23, "最大回撤%": -4.21, "夏普": 1.58, "卡玛": 1.21, "年胜率%": 85.7, "tv": 0.03, "DC": true, "cap": 2.0, "换手/年": 0.9}
+{"name": "cap2|DC=True|tv=4.0%", "年化%": 5.35, "波动%": 3.7, "最大回撤%": -4.08, "夏普": 1.45, "卡玛": 1.31, "年胜率%": 85.7, "tv": 0.04, "DC": true, "cap": 2.0, "换手/年": 1.2}
+{"name": "cap2|DC=True|tv=5.0%", "年化%": 5.91, "波动%": 4.21, "最大回撤%": -4.25, "夏普": 1.4, "卡玛": 1.39, "年胜率%": 85.7, "tv": 0.05, "DC": true, "cap": 2.0, "换手/年": 1.49}
+{"name": "cap2|DC=True|tv=5.5%", "年化%": 6.47, "波动%": 4.52, "最大回撤%": -4.15, "夏普": 1.43, "卡玛": 1.56, "年胜率%": 85.7, "tv": 0.055, "DC": true, "cap": 2.0, "换手/年": 1.64}
+{"name": "cap2|DC=True|tv=6.0%", "年化%": 6.35, "波动%": 4.65, "最大回撤%": -4.54, "夏普": 1.36, "卡玛": 1.4, "年胜率%": 85.7, "tv": 0.06, "DC": true, "cap": 2.0, "换手/年": 1.79}
+{"name": "cap2|DC=True|tv=7.0%", "年化%": 6.45, "波动%": 4.82, "最大回撤%": -4.6, "夏普": 1.34, "卡玛": 1.4, "年胜率%": 85.7, "tv": 0.07, "DC": true, "cap": 2.0, "换手/年": 2.07}
+{"name": "cap2|DC=True|tv=9.0%", "年化%": 6.32, "波动%": 5.5, "最大回撤%": -5.89, "夏普": 1.15, "卡玛": 1.07, "年胜率%": 78.6, "tv": 0.09, "DC": true, "cap": 2.0, "换手/年": 2.56}
+{"name": "cap2|DC=True|tv=12.0%", "年化%": 6.34, "波动%": 6.1, "最大回撤%": -6.32, "夏普": 1.04, "卡玛": 1.0, "年胜率%": 85.7, "tv": 0.12, "DC": true, "cap": 2.0, "换手/年": 3.18}
+--- 无杠杆基线 (eq_cap=1.0) ---
+{"name": "cap1|DC=False|tv=3.0%", "年化%": 5.48, "波动%": 3.55, "最大回撤%": -4.14, "夏普": 1.54, "卡玛": 1.32, "年胜率%": 85.7, "tv": 0.03, "DC": false, "cap": 1.0, "换手/年": 0.9}
+{"name": "cap1|DC=False|tv=4.0%", "年化%": 6.27, "波动%": 4.48, "最大回撤%": -5.35, "夏普": 1.4, "卡玛": 1.17, "年胜率%": 85.7, "tv": 0.04, "DC": false, "cap": 1.0, "换手/年": 1.2}
+{"name": "cap1|DC=False|tv=5.0%", "年化%": 7.05, "波动%": 5.47, "最大回撤%": -6.8, "夏普": 1.29, "卡玛": 1.04, "年胜率%": 85.7, "tv": 0.05, "DC": false, "cap": 1.0, "换手/年": 1.49}
+{"name": "cap1|DC=False|tv=5.5%", "年化%": 7.44, "波动%": 5.99, "最大回撤%": -7.52, "夏普": 1.24, "卡玛": 0.99, "年胜率%": 85.7, "tv": 0.055, "DC": false, "cap": 1.0, "换手/年": 1.64}
+{"name": "cap1|DC=False|tv=6.0%", "年化%": 7.83, "波动%": 6.51, "最大回撤%": -8.27, "夏普": 1.2, "卡玛": 0.95, "年胜率%": 85.7, "tv": 0.06, "DC": false, "cap": 1.0, "换手/年": 1.79}
+{"name": "cap1|DC=False|tv=7.0%", "年化%": 8.61, "波动%": 7.55, "最大回撤%": -9.76, "夏普": 1.14, "卡玛": 0.88, "年胜率%": 85.7, "tv": 0.07, "DC": false, "cap": 1.0, "换手/年": 2.07}
+{"name": "cap1|DC=False|tv=9.0%", "年化%": 9.8, "波动%": 9.52, "最大回撤%": -12.72, "夏普": 1.03, "卡玛": 0.77, "年胜率%": 85.7, "tv": 0.09, "DC": false, "cap": 1.0, "换手/年": 2.51}
+{"name": "cap1|DC=False|tv=12.0%", "年化%": 11.28, "波动%": 11.92, "最大回撤%": -17.96, "夏普": 0.95, "卡玛": 0.63, "年胜率%": 85.7, "tv": 0.12, "DC": false, "cap": 1.0, "换手/年": 2.91}
+{"name": "cap1|DC=True|tv=3.0%", "年化%": 5.09, "波动%": 3.23, "最大回撤%": -4.21, "夏普": 1.58, "卡玛": 1.21, "年胜率%": 85.7, "tv": 0.03, "DC": true, "cap": 1.0, "换手/年": 0.9}
+{"name": "cap1|DC=True|tv=4.0%", "年化%": 5.35, "波动%": 3.7, "最大回撤%": -4.08, "夏普": 1.45, "卡玛": 1.31, "年胜率%": 85.7, "tv": 0.04, "DC": true, "cap": 1.0, "换手/年": 1.2}
+{"name": "cap1|DC=True|tv=5.0%", "年化%": 5.91, "波动%": 4.21, "最大回撤%": -4.25, "夏普": 1.4, "卡玛": 1.39, "年胜率%": 85.7, "tv": 0.05, "DC": true, "cap": 1.0, "换手/年": 1.49}
+{"name": "cap1|DC=True|tv=5.5%", "年化%": 6.47, "波动%": 4.52, "最大回撤%": -4.15, "夏普": 1.43, "卡玛": 1.56, "年胜率%": 85.7, "tv": 0.055, "DC": true, "cap": 1.0, "换手/年": 1.64}
+{"name": "cap1|DC=True|tv=6.0%", "年化%": 6.35, "波动%": 4.65, "最大回撤%": -4.54, "夏普": 1.36, "卡玛": 1.4, "年胜率%": 85.7, "tv": 0.06, "DC": true, "cap": 1.0, "换手/年": 1.79}
+{"name": "cap1|DC=True|tv=7.0%", "年化%": 6.45, "波动%": 4.81, "最大回撤%": -4.6, "夏普": 1.34, "卡玛": 1.4, "年胜率%": 85.7, "tv": 0.07, "DC": true, "cap": 1.0, "换手/年": 2.07}
+{"name": "cap1|DC=True|tv=9.0%", "年化%": 6.23, "波动%": 5.4, "最大回撤%": -5.89, "夏普": 1.15, "卡玛": 1.06, "年胜率%": 78.6, "tv": 0.09, "DC": true, "cap": 1.0, "换手/年": 2.51}
+{"name": "cap1|DC=True|tv=12.0%", "年化%": 5.37, "波动%": 5.54, "最大回撤%": -6.06, "夏普": 0.97, "卡玛": 0.89, "年胜率%": 78.6, "tv": 0.12, "DC": true, "cap": 1.0, "换手/年": 2.91}
+
+峰值位置诊断:
+  cap=1.0 DC=False: 峰值tv=12.0% (年化11.28%), tv>=9%平均年化=10.54%, 末端衰减=+0.74pp
+  cap=1.0 DC=True: 峰值tv=5.5% (年化6.47%), tv>=9%平均年化=5.80%, 末端衰减=+0.67pp
+  cap=2.0 DC=False: 峰值tv=12.0% (年化12.46%), tv>=9%平均年化=11.30%, 末端衰减=+1.16pp
+  cap=2.0 DC=True: 峰值tv=5.5% (年化6.47%), tv>=9%平均年化=6.33%, 末端衰减=+0.14pp
+
+=== B. 交互效应回归 ===
+
+--- 因变量: 年化% ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    年化%   R-squared:                       0.945
+Model:                            OLS   Adj. R-squared:                  0.931
+Method:                 Least Squares   F-statistic:                     68.59
+Date:                Thu, 22 Oct 2026   Prob (F-statistic):           8.01e-08
+Time:                        09:43:57   Log-Likelihood:                -7.6485
+No. Observations:                  16   AIC:                             23.30
+Df Residuals:                      12   BIC:                             26.39
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================
+
+--- 因变量: 夏普 ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     夏普   R-squared:                       0.944
+Model:                            OLS   Adj. R-squared:                  0.930
+Method:                 Least Squares   F-statistic:                     67.84
+Date:                Thu, 22 Oct 2026   Prob (F-statistic):           8.53e-08
+Time:                        09:43:57   Log-Likelihood:                 27.223
+No. Observations:                  16   AIC:                            -46.45
+Df Residuals:                      12   BIC:                            -43.35
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================E:\金融\阿朱说量化研究\supplement_empirics.py:169: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  cc = pd.concat([sig, ddd], axis=1).dropna()
+E:\金融\阿朱说量化研究\supplement_empirics.py:169: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  cc = pd.concat([sig, ddd], axis=1).dropna()
+E:\金融\阿朱说量化研究\supplement_empirics.py:169: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  cc = pd.concat([sig, ddd], axis=1).dropna()
+E:\金融\阿朱说量化研究\supplement_empirics.py:169: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  cc = pd.concat([sig, ddd], axis=1).dropna()
+E:\金融\阿朱说量化研究\supplement_empirics.py:169: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  cc = pd.concat([sig, ddd], axis=1).dropna()
+
+
+--- 因变量: 卡玛 ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     卡玛   R-squared:                       0.809
+Model:                            OLS   Adj. R-squared:                  0.761
+Method:                 Least Squares   F-statistic:                     16.91
+Date:                Thu, 22 Oct 2026   Prob (F-statistic):           0.000131
+Time:                        09:43:57   Log-Likelihood:                 12.407
+No. Observations:                  16   AIC:                            -16.81
+Df Residuals:                      12   BIC:                            -13.72
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================
+
+=== C. block bootstrap 显著性 (block=21日, 2000次) ===
+最优策略 vs 沪深300: ΔSharpe=+1.005  CI=[0.495,1.533]  p=0.0000
+最优策略 vs 红利ETF: ΔSharpe=+0.836  CI=[0.326,1.391]  p=0.0040
+最优策略 vs 国债ETF: ΔSharpe=+0.116  CI=[-0.596,0.801]  p=0.7740
+内点最优(tv5.5%) vs 高目标(tv12%)  [同为DC=on]: ΔSharpe=+0.439  CI=[0.092,0.772]  p=0.0120
+DC=on vs DC=off  [同为tv5.5%]: ΔSharpe=+0.181  CI=[-0.040,0.407]  p=0.1120
+
+=== D. 机制检验 I: corr(已实现波动率, 水下深度) ===
+全池(6资产): corr(σ,D)=-0.012  年化 6.47% -> 5.37%  衰减 -1.10pp
+剔除纳指: corr(σ,D)=0.078  年化 6.47% -> 5.56%  衰减 -0.91pp
+剔除黄金: corr(σ,D)=0.077  年化 5.6% -> 4.84%  衰减 -0.76pp
+仅A股+港股: corr(σ,D)=0.092  年化 5.27% -> 4.65%  衰减 -0.62pp
+仅A股: corr(σ,D)=0.057  年化 5.12% -> 5.27%  衰减 +0.15pp
+
+=== E. 机制检验 II: 事件研究(双重减仓 vs 单一减仓) ===
+样本天数 3210: 双重减仓 960 天, 单一减仓 634 天, 无减仓 1616 天
+  h= 10: 双重+0.167% vs 单一+0.145% vs 未减仓+0.362%  差+0.022pp  t=0.52
+  h= 20: 双重+0.310% vs 单一+0.288% vs 未减仓+0.743%  差+0.022pp  t=0.37
+  h= 40: 双重+0.513% vs 单一+0.747% vs 未减仓+1.497%  差-0.234pp  t=-3.16
+  h= 60: 双重+0.794% vs 单一+1.039% vs 未减仓+2.280%  差-0.246pp  t=-2.60
+
+=== F. 份额折算校正的影响 ===
+纳指ETF: 年化 6.68% -> 21.03% (偏差 +14.35pp), 波动 31.2% -> 21.6%
+中证500ETF: 年化 16.42% -> 7.62% (偏差 -8.80pp), 波动 74.5% -> 28.1%
+黄金ETF: 年化 9.51% -> 9.51% (偏差 +0.00pp), 波动 15.2% -> 15.2%
+恒生ETF: 年化 2.65% -> 3.29% (偏差 +0.64pp), 波动 20.6% -> 21.0%
+
+全部完成 -> E:\金融\阿朱说量化研究\paper_data

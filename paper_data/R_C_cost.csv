@@ -1,0 +1,4 @@
+﻿成本,峰值σ*,峰值年化%,末端年化%,末端衰减pp,内点最优,DC开序列
+万三(基准),0.055,6.47,5.37,1.1,True,"[np.float64(5.09), np.float64(5.62), np.float64(6.47), np.float64(6.45), np.float64(6.23), np.float64(5.37)]"
+万六,0.055,6.41,5.15,1.26,True,"[np.float64(4.97), np.float64(5.61), np.float64(6.41), np.float64(6.18), np.float64(5.16), np.float64(5.15)]"
+万十二,0.055,6.03,3.89,2.14,True,"[np.float64(4.89), np.float64(5.44), np.float64(6.03), np.float64(5.93), np.float64(5.83), np.float64(3.89)]"
