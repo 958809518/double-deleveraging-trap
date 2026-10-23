@@ -33,7 +33,7 @@ FIGCAP = {
     'fig1_frontier.svg': '图1　两种约束集下的有效前沿（圈注：单峰顶点）',
     'fig2_constraint_cost.svg': '图2　约束成本的量化：回撤控制“消灭”了杠杆的价值',
     'fig3_nosignal.svg': '图3　关闭全部战术信号后，前沿分岔依然存在（圈注：单峰顶点）',
-    'fig4_boundary.svg': '图4　回撤控制成本的分离与条件性（A：表10；B：表19）',
+    'fig4_boundary.svg': '图4　回撤控制成本的分离与条件性（A：表12；B：表21）',
 }
 
 
