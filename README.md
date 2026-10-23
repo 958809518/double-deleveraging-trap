@@ -59,14 +59,9 @@
 | `make_docx_figs.py` | 生成 Word 版图片 |
 | `make_paper_html.py` | Markdown → HTML |
 | `md2docx.py` | Markdown → Word（LaTeX → MathML → OMML） |
-| `make_report.py` | 生成研究总报告 |
-
-### 写作质控
-| 脚本 | 作用 |
-|---|---|
-| `ai_flavor_check.py` | AI 味七指标体检（恶性套话 / 加粗密度 / 段末总结句等） |
-| `integrate_polish.py` | 多人并行润色后的合并校验（表号 / 图号 / 公式 / 数字多重集） |
+| `patch_docx_v4.py` | 在已定稿 docx 上定点补填投稿信息（无需重排公式） |
 | `verify_docx.py` | 成稿 docx 关键点校验 |
+| `make_report.py` | 生成研究总报告 |
 
 ---
 
