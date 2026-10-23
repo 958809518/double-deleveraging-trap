@@ -21,7 +21,7 @@ from docx.oxml import OxmlElement, parse_xml
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(BASE, '论文_双重去杠杆陷阱.md')
-DST = os.path.join(BASE, '双重去杠杆陷阱_投稿稿_v3.docx')
+DST = os.path.join(BASE, '双重去杠杆陷阱_投稿稿_v4.docx')
 FIGDIR = os.path.join(BASE, 'paper_data')
 
 NS_M = 'xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"'
