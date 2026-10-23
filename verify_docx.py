@@ -5,7 +5,7 @@ import re
 from docx import Document
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-DST = os.path.join(BASE, '双重去杠杆陷阱_投稿稿_v3.docx')
+DST = os.path.join(BASE, '双重去杠杆陷阱_投稿稿_v6.docx')
 SRC = os.path.join(BASE, '论文_双重去杠杆陷阱.md')
 
 doc = Document(DST)
@@ -25,7 +25,7 @@ cn_doc = len(re.findall(r'[\u4e00-\u9fff]', all_txt))
 md = open(SRC, encoding='utf-8').read()
 cn_md = len(re.findall(r'[\u4e00-\u9fff]', md))
 
-print('表格数         :', len(doc.tables), '  (期望 24)')
+print('表格数         :', len(doc.tables), '  (期望 26)')
 print('图片(内联)     :', len(body.findall(
     './/{http://schemas.openxmlformats.org/drawingml/2006/main}blip')))
 print('公式 oMathPara :', len(body.findall(
